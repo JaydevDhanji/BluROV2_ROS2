@@ -1,0 +1,15 @@
+running develop
+running egg_info
+creating lumen_lights_ros2.egg-info
+writing lumen_lights_ros2.egg-info/PKG-INFO
+writing dependency_links to lumen_lights_ros2.egg-info/dependency_links.txt
+writing requirements to lumen_lights_ros2.egg-info/requires.txt
+writing top-level names to lumen_lights_ros2.egg-info/top_level.txt
+writing manifest file 'lumen_lights_ros2.egg-info/SOURCES.txt'
+reading manifest file 'lumen_lights_ros2.egg-info/SOURCES.txt'
+writing manifest file 'lumen_lights_ros2.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/jd/BluROV2_ROS2_ws/install/lumen_lights_ros2/lib/python3.8/site-packages/lumen-lights-ros2.egg-link (link to .)
+
+Installed /home/jd/BluROV2_ROS2_ws/build/lumen_lights_ros2
+running symlink_data

@@ -1,0 +1,34 @@
+[0.816s] Invoking command in '/home/jd/BluROV2_ROS2_ws/build/lumen_lights_ros2': PYTHONPATH=/home/jd/BluROV2_ROS2_ws/build/lumen_lights_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jd/BluROV2_ROS2_ws/install/lumen_lights_ros2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jd/BluROV2_ROS2_ws/build/lumen_lights_ros2/build --no-deps symlink_data
+[0.940s] /home/jd/.local/lib/python3.8/site-packages/setuptools/dist.py:495: SetuptoolsDeprecationWarning: Invalid dash-separated options
+[0.940s] !!
+[0.940s] 
+[0.940s]         ********************************************************************************
+[0.940s]         Usage of dash-separated 'script-dir' will not be supported in future
+[0.940s]         versions. Please use the underscore name 'script_dir' instead.
+[0.940s] 
+[0.941s]         This deprecation is overdue, please update your project and remove deprecated
+[0.941s]         calls to avoid build errors in the future.
+[0.941s] 
+[0.941s]         See https://setuptools.pypa.io/en/latest/userguide/declarative_config.html for details.
+[0.941s]         ********************************************************************************
+[0.941s] 
+[0.941s] !!
+[0.941s]   opt = self.warn_dash_deprecation(opt, section)
+[0.952s] /home/jd/.local/lib/python3.8/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[0.952s]   warnings.warn(msg)
+[1.083s] running develop
+[1.240s] running egg_info
+[1.252s] creating lumen_lights_ros2.egg-info
+[1.252s] writing lumen_lights_ros2.egg-info/PKG-INFO
+[1.252s] writing dependency_links to lumen_lights_ros2.egg-info/dependency_links.txt
+[1.253s] writing requirements to lumen_lights_ros2.egg-info/requires.txt
+[1.253s] writing top-level names to lumen_lights_ros2.egg-info/top_level.txt
+[1.258s] writing manifest file 'lumen_lights_ros2.egg-info/SOURCES.txt'
+[1.284s] reading manifest file 'lumen_lights_ros2.egg-info/SOURCES.txt'
+[1.284s] writing manifest file 'lumen_lights_ros2.egg-info/SOURCES.txt'
+[1.328s] running build_ext
+[1.329s] Creating /home/jd/BluROV2_ROS2_ws/install/lumen_lights_ros2/lib/python3.8/site-packages/lumen-lights-ros2.egg-link (link to .)
+[1.329s] 
+[1.330s] Installed /home/jd/BluROV2_ROS2_ws/build/lumen_lights_ros2
+[1.330s] running symlink_data
+[1.371s] Invoked command in '/home/jd/BluROV2_ROS2_ws/build/lumen_lights_ros2' returned '0': PYTHONPATH=/home/jd/BluROV2_ROS2_ws/build/lumen_lights_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jd/BluROV2_ROS2_ws/install/lumen_lights_ros2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jd/BluROV2_ROS2_ws/build/lumen_lights_ros2/build --no-deps symlink_data
